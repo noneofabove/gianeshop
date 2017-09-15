@@ -13,3 +13,10 @@ body {
         padding-top: 56px;
     }
 }
+.img-central
+{
+	background-color: rgba(85, 85, 89, 0.7);
+	right: 0%;
+	left: 0%;
+	width: 100%;
+}
