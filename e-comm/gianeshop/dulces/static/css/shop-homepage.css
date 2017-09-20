@@ -15,8 +15,14 @@ body {
 }
 .img-central
 {
-	background-color: rgba(85, 85, 89, 0.7);
-	right: 0%;
-	left: 0%;
-	width: 100%;
+	background-color: #fff;
+	border-style: dashed;
+	border-color: #50c1da;
+	padding: 1px;
+
+
+}
+.color-cuerpo
+{
+	/*background-color: #2e0b04;*/
 }

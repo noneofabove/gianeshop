@@ -6,6 +6,7 @@
 
 body {
     padding-top: 54px;
+    background-color: "#2e0b04";
 }
 
 @media (min-width: 992px) {
@@ -15,5 +16,9 @@ body {
 }
 .img-central
 {
-	background-color: rgba(85, 85, 89, 0.7);
+    /*background-color: rgba(85, 85, 89, 0.7);
+    right: 0%;
+	left: 0%;
+	width: 40%;
+	height: 40%;*/
 }
